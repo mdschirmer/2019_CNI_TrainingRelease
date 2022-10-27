@@ -11,7 +11,10 @@ For this challenge, we have extracted the mean time courses of the preprocessed 
 
 In addition to the rs-fMRI data, we will provide the following demographic variables for each subject: Age, Sex, FSIQ, and Edinburgh Handedness. This information can be found in the accompanying phenotypic.csv file in each subject directory. During training and validation, we will provide diagnosis (DX) for participants to evaluate their models. During testing, the DX field will contain N/A.
 
-Related data releases:
+#Related data releases
+
 Training data: https://github.com/mdschirmer/2019_CNI_TrainingRelease
+
 Validation data: https://github.com/mdschirmer/2019_CNI_ValidationRelease
+
 Test data: https://github.com/mdschirmer/2019_CNI_TestRelease
