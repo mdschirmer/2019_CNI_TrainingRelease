@@ -1,3 +1,10 @@
+# Usage and Citation
+If you use this data, please cite
+
+Schirmer, Markus D., et al. "Neuropsychiatric disease classification using functional connectomics-results of the connectomics in neuroimaging transfer learning challenge." Medical image analysis 70 (2021): 101972.
+
+https://www.sciencedirect.com/science/article/abs/pii/S1361841521000189
+
 # 2019_CNI_TrainingRelease
 Training data release for Connectomics in NeuroImaging - Transfer Learning Challenge (CNI-TLC). For more details, see http://miccai.brainconnectivity.net
 
